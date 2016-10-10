@@ -1,4 +1,4 @@
-# WebAPI REST Service with a SQL Server backend
+# WebAPI REST Service with a SQL Server Backend
 This sample application consists of a WebAPI REST service with a SQL Server backend used to track locations for offices. 
 
 The application uses standard modern libraries like MVC and Entity Framework. Additionally, there is a SQL Script for DBaaS deployment through the platform. 
