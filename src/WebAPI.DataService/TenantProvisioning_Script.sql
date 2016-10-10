@@ -1,0 +1,6 @@
+﻿INSERT [dbo].[LocationModels] ([Name], [Location], [PhoneNumber]) VALUES (N'5th Ave', N'New York, NY', N'718-555-5555')
+INSERT [dbo].[LocationModels] ([Name], [Location], [PhoneNumber]) VALUES (N'Brickell Ave', N'Miami, FL', N'305-555-5555')
+INSERT [dbo].[LocationModels] ([Name], [Location], [PhoneNumber]) VALUES (N'Central Ave', N'Albany, NY', N'518-555-5555')
+INSERT [dbo].[LocationModels] ([Name], [Location], [PhoneNumber]) VALUES (N'Bloor St ', N'Toronto, ON', N'416-555-5555')
+INSERT [dbo].[LocationModels] ([Name], [Location], [PhoneNumber]) VALUES (N'Canary Wharf', N'London, UK', N'44-55-5555-5555')
+INSERT [dbo].[LocationModels] ([Name], [Location], [PhoneNumber]) VALUES (N'Market St', N'San Francisco, CA', N'415-555-5555')

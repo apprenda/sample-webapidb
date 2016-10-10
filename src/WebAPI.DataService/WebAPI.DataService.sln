@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI.DataService", "WebAPI.DataService\WebAPI.DataService.csproj", "{98CAFD72-1744-4298-B191-ECC4ED0E07D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{E8184C95-1F15-447E-88F5-E881AAFF06A7}"
+	ProjectSection(SolutionItems) = preProject
+		ApplicationProvisioning_Script.sql = ApplicationProvisioning_Script.sql
+		TenantProvisioning_Script.sql = TenantProvisioning_Script.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98CAFD72-1744-4298-B191-ECC4ED0E07D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CAFD72-1744-4298-B191-ECC4ED0E07D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CAFD72-1744-4298-B191-ECC4ED0E07D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CAFD72-1744-4298-B191-ECC4ED0E07D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

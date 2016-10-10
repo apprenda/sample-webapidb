@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.apprenda.com/SettingsXmlDoc">
+  <Settings>
+    <SettingDefinition name="Private Root" value="WebAPI.DataService" />
+    <SettingDefinition name="Extention Filter" value=".sln;.vb;.cs;.h;.cpp;.pdb;.obj;.dep;.idb" />
+    <SettingDefinition name="Build Config" value="Debug" />
+    <SettingDefinition name="Archive Output Path" value="C:\code\WebAPI.DataService\src\WebAPI.DataService\Archive.zip" />
+    <SettingDefinition name="Application Provisioning Script" value="C:\code\WebAPI.DataService\src\WebAPI.DataService\ApplicationProvisioning_Script.sql" />
+    <SettingDefinition name="Tenant Provisioning Script" value="C:\code\WebAPI.DataService\src\WebAPI.DataService\TenantProvisioning_Script.sql" />
+    <SettingDefinition name="Services" value="" />
+  </Settings>
+</root>
