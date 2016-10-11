@@ -4,9 +4,9 @@
     <SettingDefinition name="Private Root" value="WebAPI.DataService" />
     <SettingDefinition name="Extention Filter" value=".sln;.vb;.cs;.h;.cpp;.pdb;.obj;.dep;.idb" />
     <SettingDefinition name="Build Config" value="Debug" />
-    <SettingDefinition name="Archive Output Path" value="C:\code\WebAPI.DataService\src\WebAPI.DataService\Archive.zip" />
-    <SettingDefinition name="Application Provisioning Script" value="C:\code\WebAPI.DataService\src\WebAPI.DataService\ApplicationProvisioning_Script.sql" />
-    <SettingDefinition name="Tenant Provisioning Script" value="C:\code\WebAPI.DataService\src\WebAPI.DataService\TenantProvisioning_Script.sql" />
+    <SettingDefinition name="Archive Output Path" value="C:\code\sample-webapidb\src\WebAPI.DataService\Archive.zip" />
+    <SettingDefinition name="Application Provisioning Script" value="C:\code\sample-webapidb\src\WebAPI.DataService\ApplicationProvisioning_Script.sql" />
+    <SettingDefinition name="Tenant Provisioning Script" value="C:\code\sample-webapidb\src\WebAPI.DataService\TenantProvisioning_Script.sql" />
     <SettingDefinition name="Services" value="" />
   </Settings>
 </root>

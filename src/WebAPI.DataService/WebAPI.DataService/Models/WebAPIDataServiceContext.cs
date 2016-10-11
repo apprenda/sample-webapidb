@@ -19,11 +19,6 @@ namespace WebAPI.DataService.Models
         {
         }
 
-        public WebAPIDataServiceContext(string connectionString)
-            : base(connectionString)
-        { }
-
-
         public System.Data.Entity.DbSet<WebAPI.DataService.Models.LocationModel> LocationModels { get; set; }
     
     }
