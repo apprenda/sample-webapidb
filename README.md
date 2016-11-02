@@ -3,7 +3,7 @@ This sample application consists of a WebAPI REST service with a SQL Server back
 
 The application uses standard modern libraries like MVC and Entity Framework. Additionally, there is a SQL Script for DBaaS deployment through the platform. 
 
-# The link for the packaged archive is located in the src folder, or you can dowload directly here: https://github.com/apprenda/sample-webapidb/raw/master/src/WebAPI.DataService/Archive.zip
+The link for the packaged archive is located in the src folder, or you can dowload directly here: https://github.com/apprenda/sample-webapidb/raw/master/src/WebAPI.DataService/Archive.zip
 
 # Deployment and Build Instructions
 1. Download the source code for the application.
